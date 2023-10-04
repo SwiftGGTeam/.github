@@ -1,6 +1,6 @@
 # SwiftGG Translation Group
 
-[中文版本](https://github.com/SwiftGGTeam/.github/blob/main/profile/README_CN)
+[中文版本](https://github.com/SwiftGGTeam/.github/blob/main/profile/README_CN.md)
 
 Hello, we are SwiftGG Translation Group, a technical community organisation focusing on the Apple ecosystem, and we have organised many technical events related to the Apple ecosystem in China.
 
