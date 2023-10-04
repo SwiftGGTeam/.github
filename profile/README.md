@@ -25,7 +25,8 @@ We've organised three Swift Developer Conferences in China, with speakers includ
 
 We have translated many technical articles related to Apple ecosystem (iOS, watchOS, macOS, Swift, etc.), and every article in our website has been authorised by the original author. NSHipster and AppCoda are both partners.
 
-- The Swift GG Translation Group website](https://swiftgg.team/)
+- [New Website of SwiftGG ](https://swiftgg.team/)
+- [Archived Website of SwiftGG](https://swift.gg/)
 - The Swift Programming Language Chinese version](https://swiftgg.gitbook.io/swift/), official referral link: [https://swift.org/documentation/#the-swift- programming-language](https://swift.org/documentation/#the-swift-programming-language)
 
 We are a NGO organisation, and we always try to present the forward-looking and valuable contents in the technical community to everyone's vision. Besides inviting the technical experts in the domestic technical community, we also establish contact with many excellent developers abroad to enrich the vision of developers with a broader perspective.
