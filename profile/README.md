@@ -6,7 +6,7 @@ Hello，我们是 SwiftGG 翻译组，是一个专注于 Apple 生态的技术�
 ## 过往组织的部分活动
 
 ### WWDC.playground 活动
-组织过两届线上直播大会，被 Apple 官方多次推荐，其中 2022 年的活动邀请了圈内 37 位大咖，包括少数派 CEO 张涛，Apple Design Award 提名奖获得者柳毅，NOMO 创始人林嘉澍（飞猪），台湾 iPlayground 技术社区负责人黄逸杉， 国内 Swift 语言技术领袖王巍等，活动参与人数超过 3 万人，视频累积观看 3700 小时。
+组织过三届线上直播大会，被 Apple 官方多次推荐，邀请过圈内诸多大咖，例如少数派 CEO 张涛，Apple Design Award 提名奖获得者柳毅，NOMO 创始人林嘉澍（飞猪），台湾 iPlayground 技术社区负责人黄逸杉，国内 Swift 语言技术领袖王巍等，活动参与人数已经超过 10 万人，视频累积观看超过 7000 小时。
 
 - [wwdc.playground 23](https://wwdc23.swiftgg.team/)
 - [wwdc.playground 22](https://wwdc22.swiftgg.team/)
