@@ -24,6 +24,7 @@ SwiftGG Translation Group is a leading technical community organization dedicate
 ## 🎪 SwiftGG Events
 
 ### [Let's visionOS 2025](https://letsvision.swiftgg.team/)
+![](https://jin.cr/vision.png)
 
 LET’S VISION 2025 is the largest and most international Apple ecosystem conference in China. You can think of LET’S VISION as a brand akin to “TGS,” “GC,” or “ChinaJoy” within the Apple ecosystem. We are dedicated to creating an industry-leading conference centered around the Apple ecosystem, showcasing outstanding products and innovations within this space. 
 
@@ -44,6 +45,7 @@ Whether you are a developer, designer, product manager, entrepreneur, investor, 
 * 30+ more...
 
 ### [WWDC.playground 25](https://wwdc25.swiftgg.team/)
+![](https://jin.cr/dc.png)
 
 On June 9, Beijing, Shanghai, and Shenzhen will once again host simultaneous in-person Watch Parties for WWDC25 — co-hosted by SwiftGG and local partners: SSPai, GeekPark, and AIHH.
 
