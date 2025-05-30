@@ -1,14 +1,10 @@
-# SwiftGG Translation Group
-
-*A creator community dedicated to the Apple ecosystem*
-
 ![](https://jin.cr/banner.png)
 
 [中文版本](https://github.com/SwiftGGTeam/.github/blob/main/profile/README_CN.md)
 
 ------
 
-🎯 **Who We Are**
+## 🎯 **Who We Are**
 
 SwiftGG Translation Group is a leading technical community organization dedicated to the Apple ecosystem. We bridge the gap between global Apple development knowledge and the Chinese developer community through high-quality translations, conferences, and educational content.
 
@@ -21,10 +17,40 @@ SwiftGG Translation Group is a leading technical community organization dedicate
 
 ------
 
+## 📚 Documentation & Content
+
+![](https://jin.cr/trans.png)
+
+<details>
+
+<summary>Translation Projects
+</summary>
+All our translations are **officially authorized** by original authors, ensuring quality and authenticity.
+
+**Platforms & Coverage:**
+
+- iOS, watchOS, macOS, Swift, and broader Apple ecosystem
+- Partnership with leading technical publications
+- Continuous updates with latest Apple technologies
+
+**Our Websites:**
+
+- 🆕 [New SwiftGG Website](https://swiftgg.team/) - Modern platform with latest content
+- 📖 [The Swift Programming Language (Chinese)](https://doc.swiftgg.team) - *Officially referenced by [Swift.org](https://swift.org/documentation/#the-swift-programming-language)*
+- 🐦[Swift Programing Language in Chinese](https://swift.swiftgg.team)
+
+</details>
+
+------
+
 ## 🎪 SwiftGG Events
 
 ### [Let's visionOS 2025](https://letsvision.swiftgg.team/)
 ![](https://jin.cr/vision.png)
+
+<details>
+
+<summary>Check Details</summary>
 
 LET’S VISION 2025 is the largest and most international Apple ecosystem conference in China. You can think of LET’S VISION as a brand akin to “TGS,” “GC,” or “ChinaJoy” within the Apple ecosystem. We are dedicated to creating an industry-leading conference centered around the Apple ecosystem, showcasing outstanding products and innovations within this space. 
 
@@ -44,8 +70,14 @@ Whether you are a developer, designer, product manager, entrepreneur, investor, 
 * **Paul Hudson** - Creator of Hacking with Swift
 * 30+ more...
 
+</details>
+
 ### [WWDC.playground 25](https://wwdc25.swiftgg.team/)
 ![](https://jin.cr/dc.png)
+
+<details>
+
+<summary>Check Details</summary>
 
 On June 9, Beijing, Shanghai, and Shenzhen will once again host simultaneous in-person Watch Parties for WWDC25 — co-hosted by SwiftGG and local partners: SSPai, GeekPark, and AIHH.
 
@@ -64,8 +96,14 @@ On June 9, Beijing, Shanghai, and Shenzhen will once again host simultaneous in-
 - [🎯 wwdc.playground 22](https://wwdc22.swiftgg.team/)
 - [🎯 wwdc.playground 21](https://wwdc21.swiftgg.team/)
 
+</details>
+
 ### @Swift China Developer Conference
 ![](https://jin.cr/atswift.png)
+
+<details>
+
+<summary>Check Details</summary>
 
 Connecting the Chinese Swift community with international expertise through comprehensive developer conferences.
 
@@ -75,29 +113,13 @@ Connecting the Chinese Swift community with international expertise through comp
 
 📂 **Resources**: Conference slides and demos available at [github.com/atConf](https://github.com/atConf)
 
-------
-
-## 📚 Documentation & Content
-
-### Translation Projects
-
-All our translations are **officially authorized** by original authors, ensuring quality and authenticity.
-
-**Platforms & Coverage:**
-
-- iOS, watchOS, macOS, Swift, and broader Apple ecosystem
-- Partnership with leading technical publications
-- Continuous updates with latest Apple technologies
-
-**Our Websites:**
-
-- 🆕 [New SwiftGG Website](https://swiftgg.team/) - Modern platform with latest content
-- 📖 [The Swift Programming Language (Chinese)](https://doc.swiftgg.team) - *Officially referenced by [Swift.org](https://swift.org/documentation/#the-swift-programming-language)*
-- 🐦[Swift Programing Language in Chinese](https://swift.swiftgg.team)
+</details>
 
 ------
 
-## 🌟 Our Mission
+<details>
+
+<summary>🌟 Our Mission</summary>
 
 As a **non-profit organization**, we are committed to:
 
@@ -109,9 +131,11 @@ As a **non-profit organization**, we are committed to:
 
 💡 **Quality** - Maintaining high standards through authorized translations and expert speakers
 
-------
+</details>
 
-## 🤝 Join Our Community
+<details>
+
+<summary>🤝 Join Our Community</summary>
 
 We believe in the power of collaboration and knowledge sharing. Whether you're a seasoned developer, translator, or Apple enthusiast, there's a place for you in our community.
 
@@ -127,6 +151,8 @@ We believe in the power of collaboration and knowledge sharing. Whether you're a
 *Together, let's create a more connected and knowledgeable Apple developer community! 🍎*
 
 ------
+
+</details>
 
 **Contact & Follow Us:**
 
