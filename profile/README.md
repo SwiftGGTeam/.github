@@ -65,6 +65,7 @@ On June 9, Beijing, Shanghai, and Shenzhen will once again host simultaneous in-
 - [🎯 wwdc.playground 21](https://wwdc21.swiftgg.team/)
 
 ### @Swift China Developer Conference
+![](https://jin.cr/atswift.png)
 
 Connecting the Chinese Swift community with international expertise through comprehensive developer conferences.
 
