@@ -19,7 +19,7 @@ SwiftGG Translation Group is a leading technical community organization dedicate
 
 ## 📚 Documentation & Content
 
-![](https://jin.cr/trans.png)
+![](https://jin.cr/translate.png)
 
 <details>
 
@@ -73,7 +73,7 @@ Whether you are a developer, designer, product manager, entrepreneur, investor, 
 </details>
 
 ### [WWDC.playground 25](https://wwdc25.swiftgg.team/)
-![](https://jin.cr/dc.png)
+![](https://jin.cr/wwdc25.png)
 
 <details>
 
