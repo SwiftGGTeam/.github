@@ -1,8 +1,4 @@
-![](https://jin.cr/banner.png)
-
-[中文版本](https://github.com/SwiftGGTeam/.github/blob/main/profile/README_CN.md)
-
-------
+![](https://jin.cr/swiftgg/banner.png)
 
 ## 🎯 **Who We Are**
 
@@ -19,7 +15,7 @@ SwiftGG Translation Group is a leading technical community organization dedicate
 
 ## 📚 Documentation & Content
 
-![](https://jin.cr/translate.png)
+![](https://jin.cr/swiftgg/translate.png)
 
 <details>
 
@@ -45,16 +41,16 @@ All our translations are **officially authorized** by original authors, ensuring
 
 ## 🎪 SwiftGG Events
 
-### [Let's visionOS 2025](https://letsvision.swiftgg.team/)
-![](https://jin.cr/vision.png)
+### [Let's visionOS 2026](https://letsvision.swiftgg.team/)
+![](https://jin.cr/swiftgg/letsvision.png)
 
 <details>
 
 <summary>Check Details</summary>
 
-LET’S VISION 2025 is the largest and most international Apple ecosystem conference in China. You can think of LET’S VISION as a brand akin to “TGS,” “GC,” or “ChinaJoy” within the Apple ecosystem. We are dedicated to creating an industry-leading conference centered around the Apple ecosystem, showcasing outstanding products and innovations within this space. 
+LET’S VISION 2026 is the largest and most international Apple ecosystem conference in China. You can think of LET’S VISION as a brand akin to “TGS,” “GC,” or “ChinaJoy” within the Apple ecosystem. We are dedicated to creating an industry-leading conference centered around the Apple ecosystem, showcasing outstanding products and innovations within this space. 
 
-The conference will take place from March 1 to March 2, 2025, with the theme [AI + Spatial Computing = Infinity♾️], and will be held at Shanghai Flower Harbor. We have specially built a 10,000-square-meter venue for this event, featuring a conference hall that accommodates over 1,000 attendees and an exhibition area with more than 100 booths. 
+The conference will take place from March 28 to March 29, 2026, with the theme [AI + Spatial Computing = Infinity♾️], and will be held at Shanghai Flower Harbor. We have specially built a 10,000-square-meter venue for this event, featuring a conference hall that accommodates over 1,000 attendees and an exhibition area with more than 100 booths. 
 
 Whether you are a developer, designer, product manager, entrepreneur, investor, or student, this conference offers a unique platform to access cutting-edge technologies and practices while significantly expanding your horizons and network.
 
@@ -73,7 +69,7 @@ Whether you are a developer, designer, product manager, entrepreneur, investor, 
 </details>
 
 ### [WWDC.playground 25](https://wwdc25.swiftgg.team/)
-![](https://jin.cr/wwdc25.png)
+![](https://jin.cr/swiftgg/wwdc.png)
 
 <details>
 
@@ -99,7 +95,7 @@ On June 9, Beijing, Shanghai, and Shenzhen will once again host simultaneous in-
 </details>
 
 ### @Swift China Developer Conference
-![](https://jin.cr/atswift.png)
+![](https://jin.cr/swiftgg/at-swift.png)
 
 <details>
 
