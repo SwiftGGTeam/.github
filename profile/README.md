@@ -1,4 +1,4 @@
-![](https://jin.cr/swiftgg/banner.png)
+![](https://jin.cr/swiftgg/header.png)
 
 ## 🎯 **Who We Are**
 
