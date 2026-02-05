@@ -41,7 +41,7 @@ All our translations are **officially authorized** by original authors, ensuring
 
 ## 🎪 SwiftGG Events
 
-### [Let's visionOS 2026](https://letsvision.swiftgg.team/)
+### [LET'S VISION 2026](https://letsvision.swiftgg.team/)
 ![](https://jin.cr/swiftgg/letsvision.png)
 
 <details>
